@@ -30,7 +30,7 @@ export default function MBAComparison() {
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                                     </svg>
                                     <p className="text-gray-300 text-base md:text-lg font-normal">
-                                        <span className="font-bold">$100,000</span> tuition, on average
+                                        <span className="font-bold">AED 100,000</span> Tuition, On Average
                                     </p>
                                 </div>
 
@@ -38,14 +38,14 @@ export default function MBAComparison() {
                                     <svg className="w-5 h-5 mt-1 flex-shrink-0 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                                     </svg>
-                                    <p className="text-gray-300 text-base md:text-lg font-normal">Inflexible learning</p>
+                                    <p className="text-gray-300 text-base md:text-lg font-normal">Inflexible Education</p>
                                 </div>
 
                                 <div className="flex items-start gap-4">
                                     <svg className="w-5 h-5 mt-1 flex-shrink-0 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                                     </svg>
-                                    <p className="text-gray-300 text-base md:text-lg font-normal">No refund policy</p>
+                                    <p className="text-gray-300 text-base md:text-lg font-normal">No Job Support</p>
                                 </div>
 
                                 <div className="flex items-start gap-4">
@@ -53,7 +53,7 @@ export default function MBAComparison() {
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                                     </svg>
                                     <p className="text-gray-300 text-base md:text-lg font-normal">
-                                        <span className="font-bold">2 year</span> time commitment
+                                        <span className="font-bold">4 year</span> Time Commitment
                                     </p>
                                 </div>
 
@@ -61,21 +61,21 @@ export default function MBAComparison() {
                                     <svg className="w-5 h-5 mt-1 flex-shrink-0 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                                     </svg>
-                                    <p className="text-gray-300 text-base md:text-lg font-normal">Academic instructors</p>
+                                    <p className="text-gray-300 text-base md:text-lg font-normal">Academic Instructors</p>
                                 </div>
 
                                 <div className="flex items-start gap-4">
                                     <svg className="w-5 h-5 mt-1 flex-shrink-0 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                                     </svg>
-                                    <p className="text-gray-300 text-base md:text-lg font-normal">Outdated, rigid curriculum</p>
+                                    <p className="text-gray-300 text-base md:text-lg font-normal">Outdated Education Based & Rigid Curriculum</p>
                                 </div>
 
                                 <div className="flex items-start gap-4">
                                     <svg className="w-5 h-5 mt-1 flex-shrink-0 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                                     </svg>
-                                    <p className="text-gray-300 text-base md:text-lg font-normal">Tedious admission process</p>
+                                    <p className="text-gray-300 text-base md:text-lg font-normal">Tedious Admission Process</p>
                                 </div>
                             </div>
                         </div>
@@ -95,7 +95,7 @@ export default function MBAComparison() {
                                         </svg>
                                     </div>
                                     <p className="text-gray-800 text-base md:text-lg font-normal">
-                                        <span className="font-bold">$2,450</span> tuition with payment plan options
+                                        <span className="font-bold">AED 997</span> One Time Payment
                                     </p>
                                 </div>
 
@@ -105,7 +105,7 @@ export default function MBAComparison() {
                                             <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
                                         </svg>
                                     </div>
-                                    <p className="text-gray-800 text-base md:text-lg font-normal">Anywhere, anytime, on any device</p>
+                                    <p className="text-gray-800 text-base md:text-lg font-normal">Anywhere, Anytime, On Any Device</p>
                                 </div>
 
                                 <div className="flex items-start gap-4">
@@ -115,7 +115,7 @@ export default function MBAComparison() {
                                         </svg>
                                     </div>
                                     <p className="text-gray-800 text-base md:text-lg font-normal">
-                                        <span className="font-bold">15-day</span> money-back guarantee
+                                        Post Job Support
                                     </p>
                                 </div>
 
@@ -126,7 +126,7 @@ export default function MBAComparison() {
                                         </svg>
                                     </div>
                                     <p className="text-gray-800 text-base md:text-lg font-normal">
-                                        <span className="font-bold">2-6 month</span> commitment
+                                        <span className="font-bold"> 21 Days</span> Commitment
                                     </p>
                                 </div>
 
@@ -136,7 +136,7 @@ export default function MBAComparison() {
                                             <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
                                         </svg>
                                     </div>
-                                    <p className="text-gray-800 text-base md:text-lg font-normal">Taught by recognized founders</p>
+                                    <p className="text-gray-800 text-base md:text-lg font-normal">Trainer With 25+ Years Of Industry Experience</p>
                                 </div>
 
                                 <div className="flex items-start gap-4">
@@ -145,7 +145,7 @@ export default function MBAComparison() {
                                             <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
                                         </svg>
                                     </div>
-                                    <p className="text-gray-800 text-base md:text-lg font-normal">Constantly updated curriculum</p>
+                                    <p className="text-gray-800 text-base md:text-lg font-normal">Technique Based Learning</p>
                                 </div>
 
                                 <div className="flex items-start gap-4">
@@ -154,7 +154,7 @@ export default function MBAComparison() {
                                             <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
                                         </svg>
                                     </div>
-                                    <p className="text-gray-800 text-base md:text-lg font-normal">Open Education</p>
+                                    <p className="text-gray-800 text-base md:text-lg font-normal">Open For All Graduates</p>
                                 </div>
                             </div>
 
